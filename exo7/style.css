@@ -1,0 +1,43 @@
+#colone1{	
+	float: left;
+	background-color: #FF9800;
+	width: 20%;
+	height: 600px;
+	text-align: center;
+	color: white;
+
+}
+
+#colone2{
+	float: right;
+	width: 15%;
+	background-color: #FF9800;
+	height: 600px;
+	color: white;
+	text-align: center;
+
+}
+
+#colone3{
+	background-color: #FFA726;
+	height: 600px;
+	text-align: left;
+	margin-left: 20%;
+	margin-right: 15%; 
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+#chat{
+	float: right;
+    margin: 0 0 1em 1em;
+}
+ 
+h1{
+	text-align: center;
+}
+
+h2{
+	text-align: center;
+}
+

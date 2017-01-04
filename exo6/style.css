@@ -1,0 +1,23 @@
+.image0{
+	position: absolute;
+	z-index: 2;
+	left: 430px;
+	top: 60px;
+
+}
+
+.image1{
+	position: absolute;
+	z-index: 1;
+	left: 330px;
+	top: 40px;
+}
+
+#logo {
+    position:absolute;
+    left: 480px;
+    top: 20px;
+    z-index: 0;
+    left: 230px;
+}
+     

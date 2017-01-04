@@ -1,0 +1,14 @@
+
+.menu {
+	display: block;
+	left: 0px;
+}
+
+.menu ul li {
+	padding: 15px;
+	position: relative;
+	width: 200px;
+	background-color: #FFF000;
+	list-style-type: none;
+
+}

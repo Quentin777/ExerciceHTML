@@ -1,0 +1,21 @@
+.image0{
+	float: left;
+}
+
+.image1{
+	float: right;
+}
+
+#logo {
+    position:absolute;
+    left: 480px;
+    top: 6px;
+}
+     
+.Style5 {
+    position:absolute;
+    left: 10px;
+    top: 10px;
+    font-size: 36px;
+
+}
